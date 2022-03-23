@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'principal 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'principal 1.0-SNAPSHOT API'
+es.iespuerto.principal
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/src/main/java = 1648046588560
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/package-search-index.js = 1648047382322
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/allpackages-index.html = 1648047382338
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/deprecated-list.html = 1648047382342
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/index-all.html = 1648047382330
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/type-search-index.js = 1648047382330
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/search.js = 1648047382350
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/member-search-index.zip = 1648047382330
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/member-search-index.js = 1648047382330
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/package-search-index.zip = 1648047382330
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/index.html = 1648047382342
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/stylesheet.css = 1648047382350
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/element-list = 1648047382282
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/constant-values.html = 1648047382298
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/type-search-index.zip = 1648047382330
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/overview-tree.html = 1648047382314
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/script.js = 1648047382350
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/allclasses-index.html = 1648047382334
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/help-doc.html = 1648047382346
+/home/daw/ejercicioRecuperacionEts/recuperacionEts/principal/target/site/apidocs/allclasses.html = 1648047382342
